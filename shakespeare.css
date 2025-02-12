@@ -1,0 +1,34 @@
+.speech {
+    font-family: Georgia, serif;
+    font-size: 16px;
+    color: black;
+}
+
+.stage-direction {
+    font-style: italic;
+    background-color: #f0f0f0;
+    padding: 5px;
+}
+
+.stage-direction:hover {
+    background-color: #ccc;
+    color: red;
+}
+
+.name {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/* Character colors */
+.hero {
+    color: darkblue;
+}
+
+.margaret {
+    color: darkgreen;
+}
+
+.ursula {
+    color: darkred;
+}
