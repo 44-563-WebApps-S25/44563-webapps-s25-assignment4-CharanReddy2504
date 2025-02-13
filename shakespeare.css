@@ -68,3 +68,8 @@ a:hover {
     font-size: 20px; /* Optional: Make the font larger on hover */
     color: #ff5733; /* Optional: Change the color on hover */
 }
+
+.name:hover {
+    text-shadow: 2px 2px 8px #ff5733; /* Adjust the shadow color and blur as needed */
+    border: 2px solid #ff5733; /* Optional: Add a border on hover */
+}
